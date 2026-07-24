@@ -1,0 +1,9 @@
+vaultik:
+  capacity: 10000
+  eviction-policy: LRU
+  wal-path: data/vaultik.wal
+  snapshot-path: data/vaultik.snapshot
+  snapshot-interval: 1000
+
+server:
+  port: 8080

@@ -1,0 +1,8 @@
+target/
+data/
+*.log
+*.wal
+*.snapshot
+.idea/
+.vscode/
+.DS_Store
